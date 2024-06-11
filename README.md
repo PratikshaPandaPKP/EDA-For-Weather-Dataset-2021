@@ -15,4 +15,4 @@
 - The linear regression model accurately predicts temperature, demonstrated by the close alignment between actual and predicted values.
 
 **Additional Context:**
-- This analysis was completed in October 2022 as part of a Semester 2 assignment for a Master's in Data Science program.
+This analysis was completed in October 2022 during the first semester of my MS in Data Science program as an assignment.
